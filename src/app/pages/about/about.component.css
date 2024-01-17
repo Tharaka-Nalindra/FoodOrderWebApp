@@ -1,0 +1,16 @@
+.aboutTitle {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    margin: 20px;
+}
+
+.aboutTitle h2{
+    font-weight: bold;
+    font-size: 50px;
+
+}
+
+.paragraf{
+    margin: 20px;
+}

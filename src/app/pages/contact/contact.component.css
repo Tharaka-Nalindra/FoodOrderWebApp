@@ -1,0 +1,10 @@
+.contact{
+    display: flex;
+    gap: 20%;
+    margin: 40px;
+    margin-top: 15%;
+}
+.contact p{
+    font-size: 20px;
+    font-weight: bold;
+}
